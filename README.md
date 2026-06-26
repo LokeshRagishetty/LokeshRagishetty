@@ -1,6 +1,11 @@
 # 💫 About Me:
 👋 Hey there, I’m Lokesh!<br><br>I’m a B.Tech CSE student passionate about building real-world web applications and turning ideas into scalable products. I enjoy solving problems, shipping features, and continuously learning modern technologies.<br><br>* 🚀 Currently Building: Full-stack applications with React, Next.js, Firebase, Node.js & MongoDB.<br>* 🔭 Focused On: Scalable architectures, clean UI/UX, and real-world product development.<br>* 🌱 Learning: System Design, Cloud, Open Source Collaboration & Advanced Backend Development.<br>* 💡 Interested In: Web development, developer tools, and startup-style projects.<br>* 🏆 Goal: Cracking top software engineering opportunities while building impactful tech.<br>* ⚡ Fun Fact: I probably spend more time improving project architecture than naming the project itself.
 
+🚀 Projects:
+• NASA Space Biology Agent – RAG-based AI research assistant using NASA ADS
+• SprintFlow – SDLC project management platform
+• AtomQuest – Goal tracking & productivity platform
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragishetty-lokesh-187a4033b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lokeshragishetty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshragishetty@gmail.com) 
